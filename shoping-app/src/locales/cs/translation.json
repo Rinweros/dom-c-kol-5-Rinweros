@@ -1,0 +1,9 @@
+{
+    "title": "Moje nákupní seznamy",
+    "addItem": "Přidat položku",
+    "remove": "Odebrat",
+    "enterMemberID": "Zadejte ID člena",
+    "leaveList": "Opustit seznam",
+    "switchMode": "Přepnout na {{mode}} režim"
+  }
+  

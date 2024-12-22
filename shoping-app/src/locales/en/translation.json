@@ -1,0 +1,9 @@
+{
+    "title": "My Shopping Lists",
+    "addItem": "Add Item",
+    "remove": "Remove",
+    "enterMemberID": "Enter member ID",
+    "leaveList": "Leave List",
+    "switchMode": "Switch to {{mode}} mode"
+  }
+  
